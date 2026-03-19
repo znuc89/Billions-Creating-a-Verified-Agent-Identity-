@@ -8,10 +8,13 @@ Grab Extra 2000 Free Power Points by Creating a Verified Agent Identity
 3. Use this commands (Terminal):
 
 3.1. Install NPM:
+
 npm install
 
 3.2. Install node:
+
 nvm install 20
+
 nvm use 20
 
 3.3. Creating a Verified Agent Identity
